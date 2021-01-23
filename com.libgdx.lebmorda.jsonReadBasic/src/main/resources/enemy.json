@@ -1,0 +1,15 @@
+{
+   "enemies":[
+      {
+         "type":"billy",
+         "x":10,
+         "y":15
+      },
+      {
+         "type":"sammy",
+         "x":11,
+         "y":13
+      }
+   ],
+   "name":"Lab"
+}

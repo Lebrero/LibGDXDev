@@ -1,0 +1,11 @@
+{  
+   "title":"Onix",
+   "vsync":"true",
+   "fullscreen":"false",
+   "foregroundFps":"60",
+   "backgroundFps":"60",
+   "windowBounds":{  
+      "width":1920,
+      "height":1080
+   }
+}
